@@ -13,4 +13,3 @@ Organizar y gestionar los archivos en el disco.
 Windows
 Linux
 macOS
-
